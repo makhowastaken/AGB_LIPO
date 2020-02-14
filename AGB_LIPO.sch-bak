@@ -1,0 +1,60 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L misc:tp4056_board-tp4056 U1
+U 1 1 5E2E0507
+P 4600 3200
+F 0 "U1" H 4825 3325 50  0000 C CNN
+F 1 "tp4056_board-tp4056" H 4825 3234 50  0000 C CNN
+F 2 "misc_footprints:4056E_LiIon_loader" H 4600 3200 50  0001 C CNN
+F 3 "" H 4600 3200 50  0001 C CNN
+	1    4600 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D1
+U 1 1 5E2E0B2B
+P 5750 2900
+F 0 "D1" H 5750 3116 50  0000 C CNN
+F 1 "D" H 5750 3025 50  0000 C CNN
+F 2 "misc_footprints:Diode-hybrid-3pad" H 5750 2900 50  0001 C CNN
+F 3 "~" H 5750 2900 50  0001 C CNN
+	1    5750 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Battery_Cell BT1
+U 1 1 5E2E12D0
+P 5950 3750
+F 0 "BT1" H 6068 3846 50  0000 L CNN
+F 1 "Battery_Cell" H 6068 3755 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" V 5950 3810 50  0001 C CNN
+F 3 "~" V 5950 3810 50  0001 C CNN
+	1    5950 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x02_Male J1
+U 1 1 5E2E1CEE
+P 6600 3200
+F 0 "J1" H 6572 3082 50  0000 R CNN
+F 1 "Conn_01x02_Male" H 6572 3173 50  0000 R CNN
+F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 6600 3200 50  0001 C CNN
+F 3 "~" H 6600 3200 50  0001 C CNN
+	1    6600 3200
+	-1   0    0    1   
+$EndComp
+$EndSCHEMATC
