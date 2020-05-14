@@ -1,5 +1,7 @@
 # AGB_LIPO
 
+THESE STILL REQUIRE MORE TWEAKS BEFORE THEY WORK PROPERLY! Please do not make one if you are not afraid of having to modify the board to get it to work. See the video linked down below for more information. 
+
 LiPo adapter for Game Boy Advance. Same concept as my AGS adapters: https://github.com/makhowastaken/AGS_LIPO
 
 * Uses these battery terminals: https://il.farnell.com/keystone/5330/battery-contact-aaa-aaaa-n-12v/dp/1888418
