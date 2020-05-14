@@ -1,6 +1,6 @@
 # AGB_LIPO
 
-THESE STILL REQUIRE MORE TWEAKS BEFORE THEY WORK PROPERLY! Please do not make one if you are not afraid of having to modify the board to get it to work. See the video linked down below for more information. 
+THESE MAY STILL REQUIRE MORE TWEAKS BEFORE THEY WORK PROPERLY! Please do not make one if you are not afraid of having to modify the board to get it to work. See the video linked down below for more information. The files have since been updated but not yet tested. 
 
 LiPo adapter for Game Boy Advance. Same concept as my AGS adapters: https://github.com/makhowastaken/AGS_LIPO
 
