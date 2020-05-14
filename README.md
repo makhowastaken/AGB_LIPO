@@ -7,7 +7,7 @@ but due to the absurd cost of shipping, I bought these instead: https://www.alie
 * a standard TP4056 module (Micro USB or USB C): https://www.aliexpress.com/item/32649780468.html
 * and pretty much whatever diode you can get your hands on: https://www.aliexpress.com/item/32664545131.html
 
-I got my boards in and had to make some alterations to get them to fit better. I'm still waiting on the terminals so I'll add a youtube video for instruction when I get everything in. 
+I got my boards in and had to make some alterations to get them to fit better. I ordered new battery terminals again but I did try with some of the terminals I already had: https://youtu.be/GEl8VRI-Jl0
 
 ![front](front.png)
 ![back](back.png)
