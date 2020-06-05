@@ -11,5 +11,8 @@ but due to the absurd cost of shipping, I bought these instead: https://www.alie
 
 I got my boards in and had to make some alterations to get them to fit better. I ordered new battery terminals again but I did try with some of the terminals I already had: https://youtu.be/GEl8VRI-Jl0
 
+Per a recommendation from a user on my youtube channel (thanks Jonathan M Santos), it looks I've found suitable batteries that will fit with no or minimal modification. 103040 (1200mAh) batteries fit with absolutely zero modification to the AGB, and 103048 (1455mAh) batteries fit with a small trim to the plastic in the battery compartment. See this video (timestamped) for more detail: https://youtu.be/A86y9P2SIq0?t=337
+
 ![front](front.png)
 ![back](back.png)
+
